@@ -1,0 +1,7 @@
+﻿  sifka.cpp
+D:\datos\DATOS C\Desktop\prueba\sofka\sifka\sifka.cpp(37,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\datos\DATOS C\Desktop\prueba\sofka\sifka\sifka.cpp(88,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\datos\DATOS C\Desktop\prueba\sofka\sifka\sifka.cpp(142,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\datos\DATOS C\Desktop\prueba\sofka\sifka\sifka.cpp(197,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\datos\DATOS C\Desktop\prueba\sofka\sifka\sifka.cpp(251,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  sifka.vcxproj -> D:\datos\DATOS C\Desktop\prueba\sofka\Debug\sifka.exe
