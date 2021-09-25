@@ -19,4 +19,6 @@ en el ultimo nivel  le indica cuantos puntos da esta pregunta y que si responde 
 el cual es un carro ford, si la persona responde correctamente le enseña el valor de puntos totales que gano y que tambien se lleva un carro ford
 y aqui termina el juego dandole un enter
 
+para encontrar el codigo  se ingresa en la carpeta sifka y dentro se encuentra el .cpp  solo es  correrlo y en inmediatamente comienza a  cumplir la secuencia de procedimientos 
+mencionadas anteriormente 
 
