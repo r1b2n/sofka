@@ -22,3 +22,4 @@ y aqui termina el juego dandole un enter
 para encontrar el codigo  se ingresa en la carpeta sifka y dentro se encuentra el .cpp  solo es  correrlo y en inmediatamente comienza a  cumplir la secuencia de procedimientos 
 mencionadas anteriormente 
 
+el lenguaje que se utilizo es C++
